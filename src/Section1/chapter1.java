@@ -15,10 +15,10 @@ public class chapter1
         System.out.println("Welcome "+name);
     }
 }
-{
-    public static void main(String arg[])
-    {
-        System.out.println("Hello World");
-    }
+// {
+//     public static void main(String arg[])
+//     {
+//         System.out.println("Hello World");
+//     }
 
-}
+// }
