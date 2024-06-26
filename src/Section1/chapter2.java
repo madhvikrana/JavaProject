@@ -15,7 +15,7 @@ public class chapter2
         a=s.nextInt();
         b=s.nextInt();
         c=a+b;
-        System.out.println("sum is" + c);
+        System.out.println("Sum is " + c);
 
     }
 }
